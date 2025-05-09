@@ -1,2 +1,16 @@
 # TCU-Tools
-This repo should function to register my learning path for the tools used in the TCU
+
+La idea de este repositorio es registrar una parte del trabajo realizado para el TCU-691 Tropicalizacion de la tecnología.
+
+## Índice
+
+### Frontend-Tech
+
+- [Vue + Nuxt Notes](Study/Frontend-Tech/Vue+Nuxt.md)
+
+## Contacto
+
+Telegram: @aleJR125
+
+[Correo institucional](alejandro.jimenezrojas@ucr.ac.cr)
+
